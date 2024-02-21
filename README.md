@@ -20,4 +20,12 @@ This tutorial is about learning full stack JavaScript development with TypeScrip
 | # | Cover | Title |
 | ----------- | ----------- | ----------- |
 | **1.** | ![](cover.jpg) | <h4><i>Martin Krause</i></h4><h2>The Complete Developer</h2><h4>No Starch Press</h4><p>2024</p><p align="center"><i>Book</i></p> |
+
 ---
+
+## Course Work
+
+| # | Activity | Date / Duration | Links |
+| ----------- | ----------- | ----------- | ----------- |
+| **1.** | **1** – | - | [code]() / [demo]() |
+
