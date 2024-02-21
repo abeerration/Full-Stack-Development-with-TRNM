@@ -1,6 +1,3 @@
-# 
- Full Stack Development with TypeScript, React, Next.js & MongoDB
-
 <div align="center">
   <b>A tutorial in my <a href="https://github.com/abeerration/CS-Self-Education">CS Self Education</a> series</b>
   <h1>Full Stack Development with TypeScript, React, Next.js & MongoDB</h1>
