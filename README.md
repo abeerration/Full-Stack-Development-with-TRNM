@@ -4,7 +4,7 @@
   <img width="100" src="ts.png">
   <img width="100" src="react.png">
   <img width="100" src="nextjs.png">
-  <img width="100" src="mongodb.png">
+  <img width="100" src="mongo.png">
 </div>
 
 ---
