@@ -1,10 +1,10 @@
 <div align="center">
   <b>A tutorial in my <a href="https://github.com/abeerration/CS-Self-Education">CS Self Education</a> series</b>
   <h1>Full Stack Development with TypeScript, React, Next.js & MongoDB</h1>
-  <img width="256" src="typescript.svg">
-  <img width="256" src="react.svg">
-  <img width="256" src="nextjs.svg">
-  <img width="256" src="mongodb.svg">
+  <img width="10%" src="typescript.svg">
+  <img width="10%" src="react.svg">
+  <img width="10%" src="nextjs.svg">
+  <img width="10%" src="mongodb.svg">
 </div>
 
 ---
