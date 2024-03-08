@@ -27,7 +27,7 @@ This tutorial is about learning full stack JavaScript development with TypeScrip
 
 | # | Activity | Date / Duration | Links |
 | ----------- | ----------- | ----------- | ----------- |
-| **1.** | **Chapter 1** – Node.js | - | [code]() / [demo]() |
+| **1.** | **Chapter 1** – Node.js | 08 Mar 2024 | [code]() / [demo]() |
 | **2.** | **Chapter 2** – Modern JavaScript | - | [code]() / [demo]() |
 | **3.** | **Chapter 3** – TypeScript | - | [code]() / [demo]() |
 | **4.** | **Chapter 4** – React | - | [code]() / [demo]() |
