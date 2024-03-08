@@ -1,6 +1,10 @@
 <div align="center">
   <b>A tutorial in my <a href="https://github.com/abeerration/CS-Self-Education">CS Self Education</a> series</b>
   <h1>Full Stack Development with TypeScript, React, Next.js & MongoDB</h1>
+  <img src="typescript.svg">
+  <img src="react.svg">
+  <img src="nextjs.svg">
+  <img src="mongodb.svg">
 </div>
 
 ---
