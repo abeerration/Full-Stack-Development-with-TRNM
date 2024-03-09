@@ -23,7 +23,7 @@ This tutorial is about learning full stack JavaScript development with TypeScrip
 
 | # | Cover | Title |
 | ----------- | ----------- | ----------- |
-| **1.** | ![](cover.jpg) | <h4><i>Martin Krause</i></h4><h2>The Complete Developer</h2><h4>No Starch Press</h4><p>2024</p><p align="center"><i>Book</i></p> |
+| **1.** | ![](cover.jpg) | <h4><i>Martin Krause</i></h4><h2>The Complete Developer</h2><i>Master the Full Stack with TypeScript, React, Next.js, MongoDB, and Docker</i><h4>No Starch Press</h4><p>2024</p><p align="center"><i>Book</i></p> |
 
 ---
 
